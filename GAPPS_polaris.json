@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Runds",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Mix 2s",
+			"filename": "RisingOS-6.0-STABLE-24122115-GAPPS-UNOFFICIAL-polaris-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-unofficial/files/6.x/GAPPS/polaris/RisingOS-6.0-STABLE-24122115-GAPPS-UNOFFICIAL-polaris-ota.zip/download",
+			"timestamp": 1734765471,
+			"md5": "998721c7a4405cc6203dc4a845dc3828",
+			"sha256": "be1128b08ef10419232f5ea5868fea3343550e3820ea6f80059117b9fe285705",
+			"size": 1834716337,
+			"version": "6.0-Ascension",
+			"buildtype": "STABLE",
+			"forum": "https://www.coolapk.com/feed/60634894?",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
