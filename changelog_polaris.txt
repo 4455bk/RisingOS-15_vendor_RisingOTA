@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Mix 2s
+Device maintainer: Runds
+
+===== 12-21-2024 =====
+
+• 首个 OTA 测试
