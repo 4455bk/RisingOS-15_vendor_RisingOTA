@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Runds",
+			"oem": "OnePlus",
+			"device": "OnePlus 7 Pro",
+			"filename": "RisingOS-6.0-STABLE-24122112-GAPPS-UNOFFICIAL-guacamole-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-unofficial/files/6.x/GAPPS/guacamole/RisingOS-6.0-STABLE-24122112-GAPPS-UNOFFICIAL-guacamole-ota.zip/download",
+			"timestamp": 1734756686,
+			"md5": "4e60f5109268a7e2fa74e83343752a98",
+			"sha256": "c4d91193465f505d7276ee26f3351c1b2d883c7bae63f0ec162b565bd2eab2d2",
+			"size": 1713474876,
+			"version": "6.0-Ascension",
+			"buildtype": "STABLE",
+			"forum": "https://www.coolapk.com/feed/60253313?",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
