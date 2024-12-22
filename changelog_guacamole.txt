@@ -3,6 +3,9 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 12-21-2024 =====
+===== 12-22-2024 =====
 
-• 首个 OTA 测试
+• 应用启动加速
+• 支持解容，需要自行修改 sys/class/power_supply/bms/charge_full 的数值或使用模块
+• KernelSU 更换到 KernelSU v1.0.2+magic
+• 支持 susfs4ksu
