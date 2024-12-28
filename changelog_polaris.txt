@@ -3,9 +3,7 @@ Build type: Monthly
 Device: Xiaomi Mix 2s
 Device maintainer: Runds
 
-===== 12-26-2024 =====
+===== 12-29-2024 =====
 
-• 更新一些 lib 库
-• KernelSU 更换到 KernelSU Next，对非 GKI 有着更好的支持，记得更换 KSU 管理器
-• 默认禁用游戏 60 FPS 的限制
-• 修复充满电时的容量报告
+• KernelSU Next 更新到到 12141
+• susfs4ksu 同步最新代码
