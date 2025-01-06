@@ -3,6 +3,11 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 12-30-2024 =====
+===== 01-06-2025 =====
 
-• 将一加的双击唤醒方案更换为自定义方案，这下应该不会失灵了
+• 更新 Rising OS 6.1
+• 补全新功能汉化
+• 优化 rising 自定义设置和关于手机界面的滑动流畅度
+• KernelSU Next 启用 Magic Mount 支持
+注意：由于 KernelSU Next 已移除对 susfs 的支持，加上 susfs 项目对非 GKI 内核的支持可能会放弃，后续的版本更新可能会移除 susfs 的支持
+已知问题：设置里一加设置没有卡片布局
