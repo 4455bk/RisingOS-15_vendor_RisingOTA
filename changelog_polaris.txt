@@ -10,4 +10,4 @@ Device maintainer: Runds
 • 修复内存泄漏
 • 禁用 DBG
 • 修复壁纸不会立即隐藏
-• 因 KSU Next 停更，转用 RKSU
+• KSU Next 已恢复更新，现同步到 12366
