@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Runds",
+			"oem": "OnePlus",
+			"device": "OnePlus 7T Pro",
+			"filename": "RisingOS_Revived-6.3-250320-0531-GAPPS-UNOFFICIAL-hotdog-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-unofficial/files/6.x/GAPPS/hotdog/RisingOS_Revived-6.3-250320-0531-GAPPS-UNOFFICIAL-hotdog-ota.zip/download",
+			"timestamp": 1742419744,
+			"md5": "ec644af508f207a3f3f0712b6360112b",
+			"sha256": "e36d17685f98f8ac294c1446bdf41dd5b01d2a899040a47359c5b1255221be9c",
+			"size": 1858705508,
+			"version": "6.3-Celestia",
+			"buildtype": "非官方",
+			"forum": "https://www.coolapk.com/feed/63470232?",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
