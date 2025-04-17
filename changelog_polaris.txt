@@ -3,8 +3,8 @@ Build type: Monthly
 Device: Xiaomi Mix 2s
 Device maintainer: Runds
 
-===== 04-01-2025 =====
+===== 04-18-2025 =====
 
-• 最近任务面板清除所有任务等按钮恢复之前的样式
-• 修复清除所有任务按钮有时没反应
-• KernelSU Next 同步更新 12472
+• 修复 NFC
+• 谷歌相册改用精简版，之前的版本打开白屏
+• KernelSU Next 同步更新 12494
