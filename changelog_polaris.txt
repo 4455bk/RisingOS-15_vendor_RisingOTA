@@ -3,8 +3,8 @@ Build type: Monthly
 Device: Xiaomi Mix 2s
 Device maintainer: Runds
 
-===== 04-18-2025 =====
+===== 05-14-2025 =====
 
-• 修复 NFC
-• 谷歌相册改用精简版，之前的版本打开白屏
-• KernelSU Next 同步更新 12494
+• 因 KSU Next 停更，转用 SukiSU Ultra (12866)
+• Susfs 更新到 1.5.7
+• 隐藏 LineageOS 字符标识以过某些应用的检测
