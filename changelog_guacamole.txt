@@ -3,9 +3,6 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 05-14-2025 =====
+===== 2025-06-04 =====
 
-• 因 KSU Next 停更，转用 SukiSU Ultra (12866)
-• Susfs 更新到 1.5.7
-• 增加 KPM 支持，需要另单刷修补过的 boot 内核镜像
-• 隐藏 LineageOS 字符标识以过某些应用的检测
+• 更新 SukiSU Ultra (13000)
